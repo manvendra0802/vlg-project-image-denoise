@@ -1,1 +1,1 @@
-# vlg-project-image-denoise
+# Image denoising using Residual block architecture
