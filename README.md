@@ -1,6 +1,6 @@
 # Image denoising using Residual block architecture
 
-#Training models
+**#Training models**
 Here, first we trained the model using radial crop technique i.e.denoising1model.h5 file. Further we applied fine tuning technique to train the model i.e. , which is our final trained model.
 #Testing part
 Our model has a 'main.py' file which basically takes noise images as input with'/test/low' and predicts the corresponding denoised images as per our model to path'/test/predicted'.
